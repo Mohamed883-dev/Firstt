@@ -1,0 +1,11 @@
+body{background-color: #dbeee9; color: white;}
+
+.Headsection{text-align: center;margin: 20px 40px 100px 40px;}
+
+.Headsection a {padding: 10px;}
+
+.maincard{background-color: #31473A; margin: auto;padding: 50px;border-radius: 16px;}
+
+.imgg{border-radius: 8px;margin-top: -140px;}
+
+.maincard{margin: auto;padding: 50px;max-width: 30%;}
